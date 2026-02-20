@@ -1,0 +1,42 @@
+{
+  "name": "LiveContainer",
+  "identifier": "com.livecontainer.source",
+  "sourceURL": "https://raw.githubusercontent.com/Timothywag/Test-repo/main/LiveContainerRepoOpus.json",
+  "apps": [
+    {
+      "name": "LiveContainer + SideStore",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "LiveContainer Team",
+      "subtitle": "Run iOS apps without actually installing them!",
+      "version": "3.7.0",
+      "versionDate": "2026-02-19T03:17:54-00:00",
+      "versionDescription": "New features: Launch App Shortcut, iOS 26 JIT script support, external containers, native icon generation, multitasking improvements, AltStore Source support, and numerous bug fixes. Requires SideStore 0.6.2+ or AltStore 2.2.1+ for standalone installation.",
+      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.7.0/LiveContainer+SideStore.ipa",
+      "localizedDescription": "LiveContainer lets you run iOS apps in isolated containers without actually installing them. It supports multitasking, JIT, launch shortcuts, external containers, and more â all from a single sideloaded app.",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon1024.png",
+      "tintColor": "#1A1A2E",
+      "size": 0,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows LiveContainer to access your Photo Library for app icon customization."
+        }
+      ],
+      "screenshotURLs": []
+    }
+  ],
+  "news": [
+    {
+      "title": "LiveContainer 3.7.0 Released!",
+      "identifier": "lc-370-release",
+      "caption": "Major update with Launch App Shortcut, iOS 26 JIT support, external containers, native icons, multitasking improvements, and many bug fixes.",
+      "date": "2026-02-19T03:17:54-00:00",
+      "tintColor": "1A1A2E",
+      "imageURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/LiveContainer/Assets.xcassets/AppIcon.appiconset/Icon1024.png",
+      "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.7.0",
+      "appID": "com.kdt.livecontainer",
+      "notify": true
+    }
+  ],
+  "userInfo": {}
+}
