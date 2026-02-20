@@ -1,0 +1,28 @@
+{
+  "name": "LiveContainer Repository",
+  "identifier": "com.custom.livecontainer.repo",
+  "sourceURL": "https://raw.githubusercontent.com/Timothywag/Test-repo/refs/heads/main/UpdatedRepo.json",
+  "apps": [
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "LiveContainer Team",
+      "subtitle": "Run iOS apps without installing them",
+      "version": "3.7.0",
+      "versionDate": "2024-05-15T12:00:00-05:00",
+      "versionDescription": "LiveContainer 3.7.0 release for SideStore.",
+      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.7.0/LiveContainer+SideStore.ipa",
+      "localizedDescription": "Run iOS apps without actually installing them! This build is specifically configured and optimized for SideStore.",
+      "iconURL": "https://avatars.githubusercontent.com/u/148192224?v=4",
+      "tintColor": "#018084",
+      "size": 15000000,
+      "screenshotURLs": [
+        "https://avatars.githubusercontent.com/u/148192224?v=4"
+      ]
+    }
+  ],
+  "news": [],
+  "userInfo": {}
+}
+
+
