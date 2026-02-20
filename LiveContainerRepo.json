@@ -1,18 +1,18 @@
 {
-  "name": "Provenance EMU",
+  "name": "Fast Repo",
   "identifier": "org.provenance-emu.AltStore",
-  "sourceURL": "https://provenance-emu.com/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/Timothywag/Test-repo/refs/heads/main/LiveContainerRepo.json",
   "apps": [
     {
-      "name": "Provenance EMU",
+      "name": "LiveContainer+SideStore",
       "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Joe Mattiello",
       "subtitle": "Multi-emulator frontend for iOS & tvOS",
       "version": "2.2.1",
       "versionDate": "2022-12-30T00:01:00-05:00",
       "versionDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
-      "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
-      "localizedDescription": "Multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems.",
+      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.7.0/LiveContainer+SideStore.ipa",
+      "localizedDescription": "LiveContainer",
       "iconURL": "https://provenance-emu.com/images/icons/icon.512x512.png",
       "tintColor": "#162434",
       "size": 77010038,
